@@ -1,4 +1,7 @@
 # ispy
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/JustinBeckwith/ispy.svg)](https://greenkeeper.io/)
+
 This is a simple utility for tracking SLOs of GitHub repositories.
 
 # Usage
